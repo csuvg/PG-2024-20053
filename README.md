@@ -90,3 +90,7 @@ Si deseas realizar pruebas en dispositivos Android, asegúrate de contar con **A
 [Ver video de demostración](docs/Trabajo_de_Graduación_UVG_20053.pdf)
 
 ---
+=======
+Este repositorio contiene el código para el proyecto de graduación.
+
+Hola
